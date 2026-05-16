@@ -80,11 +80,6 @@ first_app/
 
 1. Скачать проект:
 
-   ```bash
-   git clone https://github.com/<ваш-логин>/first_app.git
-   cd first_app
-   ```
-
 2. Открыть папку `first_app` в Android Studio (`File → Open...`).
 
 
